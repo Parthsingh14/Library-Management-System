@@ -46,6 +46,7 @@ Library-Management-System/
 ├── routes/  
 │   ├── user.routes.js   # Routes for user login and admin login  
 ├── views/  
+    ├── register.ejs
 │   ├── login.ejs        # Login page  
 │   ├── adminDashboard.ejs # Admin dashboard  
 ├── models/  
